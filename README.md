@@ -21,3 +21,4 @@ O Objetivo deste projeto foi se aprofundar e aprimorar os conhecimentos em HTML,
 ![projetoclimafinalizado](https://user-images.githubusercontent.com/119917190/213899835-6c1daa4d-feab-4516-a820-896666d38e71.jpg)
 
 ###### Link do Deploy (Página do Projeto):
+https://philypy-cg.github.io/consultando-previsao-tempo-ph/
