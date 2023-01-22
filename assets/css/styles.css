@@ -9,15 +9,16 @@
   font-family: "Ubuntu", sans-serif;
 }
 
+
 body {
-  background-image: url(/assets/img/bg-weather.jpg);
+  background: url("/assets/img/bg-weather.jpg");
   background-position: center;
   background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
-
   height: 100vh;
+  
 }
 
 .hide {
