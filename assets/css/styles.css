@@ -11,7 +11,7 @@
 
 
 body {
-  background: url("/assets/img/bg-weather.jpg");
+  background: url("../img/bg-weather.jpg");
   background-position: center;
   background-size: cover;
   display: flex;
