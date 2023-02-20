@@ -19,6 +19,7 @@ O Objetivo deste projeto foi se aprofundar e aprimorar os conhecimentos em HTML,
 
 ## Resultado final em Desktop:
 
+![telainicialclima](https://user-images.githubusercontent.com/119917190/220132484-fee9905a-1f13-4a28-a13c-aef2df27d33e.png)
 ![projetoclimafinalizado](https://user-images.githubusercontent.com/119917190/213899835-6c1daa4d-feab-4516-a820-896666d38e71.jpg)
 
 ## Resultado final do formulário em Gif:
