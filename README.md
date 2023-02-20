@@ -24,6 +24,8 @@ O Objetivo deste projeto foi se aprofundar e aprimorar os conhecimentos em HTML,
 
 ## Resultado final do formulário em Gif:
 
+![verificaçãoclimatica](https://user-images.githubusercontent.com/119917190/220132768-39913c0e-0678-43a7-9f74-09406040bde5.gif)
+
 
 ###### Link do Deploy (Página do Projeto):
 https://philypy-cg.github.io/consultando-previsao-tempo-ph/
