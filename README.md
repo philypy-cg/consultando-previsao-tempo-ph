@@ -8,7 +8,7 @@
 
 
 
-O Objetivo deste projeto foi se aprofundar e aprimorar os conhecimentos em HTML, CSS e Javascript.
+O Objetivo deste projeto foi se aprofundar e aprimorar os conhecimentos em HTML, CSS e Javascript puro.
 
 - O  Cliente poderá  consultar na aba de busca qualquer cidade  de qualquer pais e verificar  a situação climatica do momento
 - Foi criada uma estrutura simples no HTML, para o box da consulta de clima
